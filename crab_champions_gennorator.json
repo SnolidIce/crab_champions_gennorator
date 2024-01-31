@@ -1,0 +1,159 @@
+[[
+{ "name": "Win with Flamethrower", "types": ["win","weapon"] },
+{ "name": "Win with Sniper", "types": ["win","weapon"] },
+{ "name": "Win with Arcane Wand", "types": ["win","weapon"] },
+{ "name": "Get elimate by any Skull", "types": ["bob"] },
+{ "name": "Get to wave 5 in holdout", "types": ["waves"] }
+],[
+{ "name": "Win with Cluster Launcher", "types": ["win","weapon"] },
+{ "name": "Win with Blade Launcher", "types": ["win","weapon"] },
+{ "name": "Get elimated by starfish", "types": ["getelimated"] },
+{ "name": "Elimate 15 ants of any type", "types": ["elimateenemy"] },
+{ "name": "Defeat an elite in 20 seconds", "types": ["elite"] }
+],[
+{ "name": "Get an Epic Chest in parkour", "types": ["parkour"] },
+{ "name": "Elimate 100 enemies in arcade mode", "types": ["arcade"] },
+{ "name": "Win with Minigun", "types": ["win","weapon"] },
+{ "name": "Win with Rocket Launcher", "types": ["win","weapon"] },
+{ "name": "Win with Orb Launcher", "types": ["win","weapon"] }
+],[
+{ "name": "Win with Crossbow", "types": ["win","weapon"] },
+{ "name": "Win with Laser Cannons", "types": ["win","weapon"] },
+{ "name": "Go to a shop and don't buy anything", "types": ["shop"] },
+{ "name": "Go to a shop and don't use any totems", "types": ["shop"] },
+{ "name": "Go to a shop and don't use the healing garden", "types": ["shop"] }
+],[
+{ "name": "Elimate 10 enemies while hip firing", "types": ["aim"] },
+{ "name": "Elimate 12 enemies while hip firing", "types": ["aim"] },
+{ "name": "Elimate 13 enemies while hip firing", "types": ["aim"] },
+{ "name": "Elimate 14 enemies while hip firing", "types": ["aim"] },
+{ "name": "Elimate 15 enemies while hip firing", "types": ["aim"] }
+],[
+{ "name": "Elimate 10 enemies while aiming", "types": ["aim"] },
+{ "name": "Elimate 12 enemies while aiming", "types": ["aim"] },
+{ "name": "Elimate 13 enemies while aiming", "types": ["aim"] },
+{ "name": "Elimate 14 enemies while aiming", "types": ["aim"] },
+{ "name": "Elimate 15 enemies while aiming", "types": ["aim"] }
+],[
+{ "name": "Aim in the air for 30 sec before landing", "types": ["aim"] },
+{ "name": "Aim in the air for 20 sec before landing", "types": ["aim"] },
+{ "name": "Aim in the air for 10 sec before landing", "types": ["aim"] },
+{ "name": "Win with Seagle", "types": ["win","weapon"] },
+{ "name": "Win with Burst Pistol", "types": ["win","weapon"] }
+],[
+{ "name": "Win with Auto Shotgun", "types": ["win","weapon"] },
+{ "name": "Win with Dual Pistols", "types": ["win","weapon"] },
+{ "name": "Win with Dual Shotguns", "types": ["win","weapon"] },
+{ "name": "Win with Auto Riffle", "types": ["win","weapon"] },
+{ "name": "Win with 5 difficulty modifiers", "types": ["win"] }
+],[
+{ "name": "Win with 4 difficulty modifiers", "types": ["win","difficulty"] },
+{ "name": "Win with 3 difficulty modifiers", "types": ["win","difficulty"] },
+{ "name": "Win on Easy diffculty", "types": ["win","difficulty"] },
+{ "name": "Win on Normal diffculty", "types": ["win","difficulty"] },
+{ "name": "Use the key totem 5 times", "types": ["totem"] }
+],[
+{ "name": "Use the key totem 4 times", "types": ["totem"] },
+{ "name": "Use the key totem 3 times", "types": ["totem"] },
+{ "name": "Use the glass totem 3 times", "types": ["totem"] },
+{ "name": "Use the glass totem 4 times", "types": ["totem"] },
+{ "name": "Use the glass totem 5 times", "types": ["totem"] }
+],[
+{ "name": "Use the reroll totem 5 times", "types": ["totem","shop"] },
+{ "name": "Use the reroll totem 4 times", "types": ["totem","shop"] },
+{ "name": "Use the reroll totem 3 times", "types": ["totem","shop"] },
+{ "name": "Win with Ice Blast", "types": ["win","ability"] },
+{ "name": "Win with Laser Beam", "types": ["win","ability"] }
+],[
+{ "name": "Win with Black Hole", "types": ["win","ability"] },
+{ "name": "Win with Grappling Hook", "types": ["win","ability"] },
+{ "name": "Win with Grenade", "types": ["win","ability"] },
+{ "name": "Get 10 Weapon Mods", "types": ["item"] },
+{ "name": "Get 15 Weapon Mods", "types": ["item"] }
+],[
+{ "name": "Get 20 Weapon Mods", "types": ["item"] },
+{ "name": "Get 10 unquie Weapon Mods", "types": ["item"] },
+{ "name": "Get 12 unquie Weapon Mods", "types": ["item"] },
+{ "name": "Get 10 Ability Mods", "types": ["item"] },
+{ "name": "Get 15 Ability Mods", "types": ["item"] }
+],[
+{ "name": "Get 20 Ability Mods", "types": ["item"] },
+{ "name": "Get 10 unquie Ability Mods", "types": ["item"] },
+{ "name": "Get 15 unquie Ability Mods", "types": ["item"] },
+{ "name": "Get 15 unquie Perks", "types": ["item"] },
+{ "name": "Get 10 unquie Perks", "types": ["item"] }
+],[
+{ "name": "Get 20 Ability Mods", "types": ["item"] },
+{ "name": "Get 10 Ability Mods", "types": ["item"] },
+{ "name": "Get 15 Ability Mods", "types": ["item"] },
+{ "name": "Elimate 15 crabs of any type", "types": ["elimateenemy"] },
+{ "name": "Elimate 15 slugs of any type", "types": ["elimateenemy"] }
+],[
+{ "name": "Scrap 5 items", "types": ["scrap"] },
+{ "name": "Scrap 10 items", "types": ["scrap"] },
+{ "name": "Scrap a key", "types": ["scrap"] },
+{ "name": "Get 5 Rare Items", "types": ["item"] },
+{ "name": "Get 5 Epic Items", "types": ["item"] }
+],[
+{ "name": "Get 5 Legendary Items", "types": ["item"] },
+{ "name": "Loop 3 times in a single run", "types": ["loop"] },
+{ "name": "Loop 2 times in a single run", "types": ["loop"] },
+{ "name": "Loop once in a single run", "types": ["loop"] },
+{ "name": "3 Shines in Lethal Lava Land Hover Only", "types": ["lll"] }
+],[
+{ "name": "2 Shines in Tall Tall Mountain", "types": ["ttm"] },
+{ "name": "3 Shines in Tall Tall Mountain", "types": ["ttm"] },
+{ "name": "4 Shines in Tall Tall Mountain", "types": ["ttm"] },
+{ "name": "Lethal Lava Land Volcano", "types": ["lll"] },
+{ "name": "Secret Shine in 4 Courses", "types": ["secrets"] },
+{ "name": "Secret Shine in 5 Courses", "types": ["secrets"] }
+],[
+{ "name": "8 Red Coin Shines", "types": ["reds"] },
+{ "name": "9 Red Coin Shines", "types": ["reds"] },
+{ "name": "24 Shines", "types": ["shine_count"] },
+{ "name": "Lethal Lava Land Secret FLUDDless", "types": ["lll"] },
+{ "name": "Tall Tall Mountain Secret", "types": ["ttm"] },
+{ "name": "First Shine in 4 Courses", "types": ["firsts"] }
+],[
+{ "name": "5 Silver Star Shines", "types": ["silvers"] },
+{ "name": "7 Silver Star Shines", "types": ["silvers"] },
+{ "name": "Play as Luigi", "types": ["starcoin_count"] },
+{ "name": "6 Star Coins in Lethal Lava Land", "types": ["lll","starcoin"] },
+{ "name": "First Shine in 7 Courses", "types": ["firsts"] },
+{ "name": "3 Star Coins in Bowser Courses", "types": ["bt3","starcoin"] }
+],[
+{ "name": "30 Shines", "types": ["shine_count"] },
+{ "name": "32 Shines", "types": ["shine_count"] },
+{ "name": "40 Shines", "types": ["shine_count"] },
+{ "name": "3 Star Coins in Tick Tock Clock", "types": ["ttc","starcoin"] },
+{ "name": "6 Star Coins in Tall Tall Mountain", "types": ["ttm","starcoin"] },
+{ "name": "First Shine in Every Course", "types": ["firsts"] }
+],[
+{ "name": "2 Shines in Tick Tock Clock", "types": ["ttc"] },
+{ "name": "3 Shines in Tick Tock Clock", "types": ["ttc"] },
+{ "name": "3 Star Coins in Rainbow Ride", "types": ["rr"] },
+{ "name": "2 Shines in Tick Tock Clock Hover Only", "types": ["ttc"] },
+{ "name": "Upstairs Castle Secrets", "types": ["upstairs"] },
+{ "name": "100% 3 Main Courses", "types": ["100%"] }
+],[
+{ "name": "2 Shines in Rainbow Ride", "types": ["rr"] },
+{ "name": "3 Shines in Rainbow Ride", "types": ["rr"] },
+{ "name": "4 Shines in Rainbow Ride", "types": ["rr"] },
+{ "name": "Edge of the Mushroom Kindgom", "types": ["bt3","css"] },
+{ "name": "Rocket and Turbo Room in Bowser 3", "types": ["bt3"] },
+{ "name": "100% Basement", "types": ["basement","100%"] }
+],[
+{ "name": "36 Star Coins", "types": ["starcoin_count"] },
+{ "name": "38 Star Coins", "types": ["starcoin_count"] },
+{ "name": "40 Star Coins", "types": ["starcoin_count"] },
+{ "name": "3 Shines in Rainbow Ride Hover Only", "types": ["rr"] },
+{ "name": "6 Star Coins in Rainbow Ride", "types": ["rr","starcoin"] },
+{ "name": "100% 4 Main Courses", "types": ["100%"] }
+],[
+{ "name": "12 Red Coin Shines", "types": ["reds"] },
+{ "name": "Secret Shine in Every Main Course", "types": ["secrets"] },
+{ "name": "Bowser 3 Reds", "types": ["b3","reds"] },
+{ "name": "48 Star Coin Prize", "types": ["starcoin_count"] },
+{ "name": "Complete Bowser 3", "types": ["b3"] },
+{ "name": "100% Upstairs", "types": ["upstairs","100%"] }
+]]
